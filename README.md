@@ -13,6 +13,10 @@ I collected some papers about online learning/adaptation/generalization.
 8. Continuous Domain Adaptation with Variational Domain-Agnostic Feature Replay.
 9. Continuous Manifold Based Adaptation for Evolving Visual Domains.
 10. Unsupervised BatchNorm Adaptation (UBNA): A Domain Adaptation Method for Semantic Segmentation Without Using Source Domain Representations.
+11. Online Adaptation through Meta-Learning for Stereo Depth Estimation.
+12. Continual Adaptation for Deep Stereo.
+13. Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning
+14. The Bootstrap Framework: Generalization Through the Lens of Online Optimization.
 
 ## Continual Learning
 1. Generalising via Meta-Examples for Continual Learning in the Wild.
@@ -26,3 +30,4 @@ I collected some papers about online learning/adaptation/generalization.
 1. Revisiting Locally Supervised Learning: An Alternative to End-to-End Training.
 2. Domain Generalization with Mixstyle.
 3. Learning Subgoal Representation with Slow Dynamics.
+4. Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization.
