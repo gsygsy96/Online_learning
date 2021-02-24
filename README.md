@@ -3,11 +3,12 @@ I collected some papers about online learning/adaptation/generalization.
 
 
 ## Online Learning
-- [x] Online Adaptation of Convolutional Neural Networks for Video Object Segmentation.
+- [x] Online Adaptation of Convolutional Neural Networks for Video Object Segmentation. [x]
 - [ ] Deep Online Learning via Meta-Learning Continual Adaptation for Model-Based RL.
 - [x] Online Adaptation for Consistent Mesh Reconstruction in the Wild.
 - [x] Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers.
-- [x] AsdfsSelf-Supervised Deep Visual Odometry with Online Adaptation.
+- [x] Self-Supervised Deep Visual Odometry with Online Adaptation.
+  * Summary: Meta online learning; smoothly update BN; the data unit is a video clip.
 - [ ] Self-Supervised Policy Adaptation During Deployment.
 - [ ] Learning to Adapt to Evolving Domains.
 - [ ] Continuous Domain Adaptation with Variational Domain-Agnostic Feature Replay.
