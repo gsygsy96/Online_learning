@@ -17,6 +17,7 @@ I collected some papers about online learning/adaptation/generalization.
 - [ ] Continuous Manifold Based Adaptation for Evolving Visual Domains.
 - [ ] Unsupervised BatchNorm Adaptation (UBNA): A Domain Adaptation Method for Semantic Segmentation Without Using Source Domain Representations.
 - [ ] Online Adaptation through Meta-Learning for Stereo Depth Estimation.
+- [ ] Learning to Adapt for Stereo.
 - [ ] Continual Adaptation for Deep Stereo.
 - [ ] Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning
 - [ ] The Bootstrap Framework: Generalization Through the Lens of Online Optimization.
