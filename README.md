@@ -9,8 +9,10 @@ I collected some papers about online learning/adaptation/generalization.
 - [x] Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers.
 - [x] Self-Supervised Deep Visual Odometry with Online Adaptation.
   * Summary: Meta online learning; smoothly update BN; the data unit is a video clip.
-- [ ] Self-Supervised Policy Adaptation During Deployment.
+- [x] Self-Supervised Policy Adaptation During Deployment.
+  * Summary: 和TTT的思路类似。 two-branch designment.
 - [ ] Learning to Adapt to Evolving Domains.
+  * Summary: envolving domain adaptation. requiring domains continuous somehow. MAML framwwork
 - [ ] Continuous Domain Adaptation with Variational Domain-Agnostic Feature Replay.
 - [ ] Continuous Manifold Based Adaptation for Evolving Visual Domains.
 - [ ] Unsupervised BatchNorm Adaptation (UBNA): A Domain Adaptation Method for Semantic Segmentation Without Using Source Domain Representations.
